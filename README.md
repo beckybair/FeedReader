@@ -23,20 +23,19 @@ Currently the gulp processes do not need to be run and are not here to run the t
 
 
 ## Dependecies
-  ### for dev only:
-  * node.js - 8.11.1
-  * npm - 5.6.0
-  * browser-sync - 2.24.5
-  * gulp - 4.0.0
-  * gulp-autoprefixer - 5.0.0
-  * gulp-jasmine-browser - 4.0.0
-  * gulp-watch - 5.0.0
-  * jasmine - 3.1.0
-  * jquery - 3.3.1
+All dependecies are included as links in the index.html file.  There shouldn't be anything you need to add to run this code.
 
-  ### for dev and build:
-  * gulp-eslint - 5.0.0
-  * gulp-sass - 4.0.1
+
+### The links include:
+CSS:
+* Fonts from google:  Roboto
+* Normalize
+* icomoon
+
+JS:
+* Jasmine 2.1.2
+* jQuery 2.1.1
+* Handlebars 2.0.0
 
 
 ## Contributing
